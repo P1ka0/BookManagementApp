@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908984956933",
+    "project_id": "bookmanagementapp-e8423",
+    "storage_bucket": "bookmanagementapp-e8423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908984956933:android:18acb869f23537db91046c",
+        "android_client_info": {
+          "package_name": "com.example.bookmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908984956933-m8eitorlv4fav7dhvt0ikm2vo3p1l17u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNhEnyzyS-SegoIuXkMOCcjff9RbaoTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908984956933-m8eitorlv4fav7dhvt0ikm2vo3p1l17u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
